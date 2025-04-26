@@ -28,7 +28,7 @@ Este projeto é uma biblioteca e exemplo de aplicação para comunicação **bid
 
 ### 1. Clonar o repositório
 
-git clone https://github.com/seu-usuario/tunnel-ws.git
+git clone https://github.com/Gimenes-dev/tunnelWeb
 cd tunnel-ws
 
 2. Instalar dependências
