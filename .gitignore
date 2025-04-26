@@ -1,0 +1,30 @@
+# Node modules
+/node_modules/
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Diretórios de build
+/dist/
+/build/
+
+# Dependências do npm (para projetos com lock files)
+package-lock.json
+
+# Arquivos de configuração do IDE/Editor
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.swp
+*.swo
+*.bak
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache
+/.cache
